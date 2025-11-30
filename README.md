@@ -1,14 +1,11 @@
 ## Hey there! 👋
 
 I'm sania, a BSc Computer Science student based in London.
-
-I design and build both academic and creative projects.
-
 -------->
 
 🏛️ My main programming languages are Java, with a bit of C++ and Python for Machine Learning.
 
-🪷 I'm currently learning Kotlin and Compose Multiplatform to build fun mobile and desktop applications.
+🪷 Currentlty Learning: Kotlin and Compose Multiplatform
 
 💻 I've also experimented with React, HTML CSS and JavaScript.
 
