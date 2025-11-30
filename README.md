@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**saniagx/saniagx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm sania, a BSc Computer Science student based in London.
 
-Here are some ideas to get you started:
+I design and build both academic and creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main programming languages are Java, with a bit of C++ and Python for Machine Learning.
+I'm currently learning Kotlin and Compose Multiplatform to build fun mobile and desktop applications.
+
+🔭 I’m currently working on my dissertation project and academic work.
+📫 How to reach me: www.linkedin.com/in/sania-ghori.
+
+
