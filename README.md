@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hi!
 
 I'm sania, a BSc Computer Science student based in London.
 
